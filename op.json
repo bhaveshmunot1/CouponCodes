@@ -1,0 +1,895 @@
+[
+    {
+        "Description": "Pay with Mobikwik wallet at MakeMy  Trip and get Rs 500 cashback on minimum billing value Rs 2500. Once/user.", 
+        "Discount": 500, 
+        "Promocode": "KWIKTRIP", 
+        "Site": " Mobikwik ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Airtel and Others", 
+            "Offer", 
+            "Deal"
+        ], 
+        "Title": "Get Flat 500 off min transaction of Rs 2500 @MakeMyTrip"
+    }, 
+    {
+        "Description": "Do recharge / Bill pay  / DTH / utility bill payment with mobikwik & get a chance to win 200% cashback. Max cashback is Rs 200. Lucky 4000 winner will get this chance.", 
+        "Discount": 200, 
+        "Promocode": "FLASH", 
+        "Site": " Mobikwik ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer", 
+            "Offer"
+        ], 
+        "Title": "Do recharge / Bill pay & get a chance to win 200% cashback"
+    }, 
+    {
+        "Description": "Do recharge / Bill Payment / DTH / Utility payment at Mobikwik with given code and get a chance to win 100% cashback. Max cashback Rs 100", 
+        "Discount": 100, 
+        "Promocode": "LUCKY100", 
+        "Site": " Mobikwik ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer", 
+            "Offer"
+        ], 
+        "Title": "Do recharges & get a chance to win 100% cashback"
+    }, 
+    {
+        "Description": "Pay your electricity bill payment with paytm and get a chance to win an Air Conditioner. 100 lucky winners will be awarded 100% Cashback. Max cashback Rs 1000.", 
+        "Discount": 100, 
+        "Promocode": "PAY2WIN", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Light Bill", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Win an Air conditioner by paying the Electricity bill"
+    }, 
+    {
+        "Description": "Get Rs 100 cashback on minimum landline bill payment of Rs 600. Valid for new user only.", 
+        "Discount": 100, 
+        "Promocode": "NEWLINE", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "New User", 
+            "Light Bill", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Get 100 cashback on minimum landline bill payment of Rs 600"
+    }, 
+    {
+        "Description": "Get Rs 100 cashback on  first time Broadband Bill payment of Rs 600. Valid for new user only.", 
+        "Discount": 100, 
+        "Promocode": "BROADBAND", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "New User", 
+            "Light Bill", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Get 100 cashback on minimum broadband bill payment of Rs 600"
+    }, 
+    {
+        "Description": "New User Get Rs 75 off on Electricity bill payment of Rs 500 or more. Valid once per user", 
+        "Discount": 75, 
+        "Promocode": "PAYBILL", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "New User", 
+            "Light Bill", 
+            "Light Bill", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "New User : Get Rs 75 off on Electricity bill payment"
+    }, 
+    {
+        "Description": "Rs.65 Cashback on Rs.500 or more Recharge & Bill Payment when you pay with this promo code. 2times/user", 
+        "Discount": 65, 
+        "Promocode": "EOM65", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer", 
+            "Offer"
+        ], 
+        "Title": "Rs.65 Cashback on Rs.500 or more Recharge & Bill Payments"
+    }, 
+    {
+        "Description": "Get 50 cashback on recharge of 50 or more. Credit / Debit card /Netbanking.or FreeCharge Balance Balance. 2 times /user. Account specific offer.", 
+        "Discount": 50, 
+        "Promocode": "FI50", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Get 50 Cashback on min Recharge of Rs.50"
+    }, 
+    {
+        "Description": "Get up to Rs.50 cashback @6% on Prepaid Recharges, Postpaid Bill Payments. 2 times per user. Using CC/DC.", 
+        "Discount": 50, 
+        "Promocode": "6FC", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer", 
+            "Offer"
+        ], 
+        "Title": "6% Cashback on Rs.50 or more Transactions"
+    }, 
+    {
+        "Description": "Get 50 Cashback on Recharges of Rs.50 or more (New user) . Max cashback Rs 50 Using Debit / Credit card only.", 
+        "Discount": 50, 
+        "Promocode": "APR50", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "New User", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Flat Rs 50 Cashback on Recharge of Rs.50 or more (New user)"
+    }, 
+    {
+        "Description": "Get Rs 50 cashback on Postpaid bill payment of Rs 400 or more. Valid once per user and using Debit/Credit card only", 
+        "Discount": 50, 
+        "Promocode": "50POST", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "New User", 
+            "Light Bill", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "New User Get 50 cashback on min Postpaid bill payment of 400"
+    }, 
+    {
+        "Description": "New user : Get Rs 50 Cashback on Rs.400 or more DTH recharge pay with this promo code. one times/user.", 
+        "Discount": 50, 
+        "Promocode": "FIRSTDTH", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "New User", 
+            "DTH Recharge", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "New user: Get 50 Cashback on Rs.400+ DTH Recharge"
+    }, 
+    {
+        "Description": "Get 30% cashback on min 3G recharge of 100 or more. Max cashback Rs 30. Using \u00e2\u0080\u008bCredit/\u00e2\u0080\u008bDebit card & FreeCharge Balance only. Twice / User.", 
+        "Discount": 30, 
+        "Promocode": "3G30", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Get 30% (max 30) Cashback on min 3G Recharge of Rs.100"
+    }, 
+    {
+        "Description": "Rs.30 Cashback on Rs.250 or more Recharge & Bill Payment when you pay with this promo code. 2times/user", 
+        "Discount": 30, 
+        "Promocode": "EOM30", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer", 
+            "Offer"
+        ], 
+        "Title": "Rs.30 Cashback on Rs.250 or more Recharge & Bill Payments"
+    }, 
+    {
+        "Description": "Paytm Saturday offer : Get Rs 30 Cashback on Tata Recharges of Rs 400 and above. Code can be used 5 time / user.", 
+        "Discount": 30, 
+        "Promocode": "TATA400", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "30*5 CB on Tata Recharges of 400 & above"
+    }, 
+    {
+        "Description": "Pay the landline bill payment & get Rs 30 cashback. Minimum Bill amount should be 500 or more. Once/ User", 
+        "Discount": 30, 
+        "Promocode": "LAND30", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Pay the landline bill payment & get Rs 30 cashback"
+    }, 
+    {
+        "Description": "Do the datacard recharge  and get Rs 30 cashback. Minimum recharge amount should be 500 or more. Once/ User", 
+        "Discount": 30, 
+        "Promocode": "DCARD30", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Do the datacard recharge of Rs 500 and get 30 cashback"
+    }, 
+    {
+        "Description": "Get up to Rs.25 cashback on Prepaid Recharge/ Bill Payments. 2 times / user. Using CC/DC. Now you can Use Freecharge wallet also.", 
+        "Discount": 25, 
+        "Promocode": "10FC", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer", 
+            "Offer"
+        ], 
+        "Title": "10% Cashback on Rs.50 or more Transaction"
+    }, 
+    {
+        "Description": "Get 25 cashback on recharge of 50 or more. Credit / Debit card /Netbanking.or FreeCharge Balance Balance. Once /user", 
+        "Discount": 25, 
+        "Promocode": "C25", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Get 25 Cashback on min Recharge of Rs.50"
+    }, 
+    {
+        "Description": "Get 25% Cashback on Recharges / Bill Payments of Rs.50 or more (New user) . Max cashback Rs 50 Using Debit / Credit card only.", 
+        "Discount": 25, 
+        "Promocode": "NEW25", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "New User", 
+            "Light Bill", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer", 
+            "Offer"
+        ], 
+        "Title": "Get 25% Cashback on Recharge of Rs.50 or more (New user)"
+    }, 
+    {
+        "Description": "Get Rs.20 cashback on Rs.100+ transaction when payment is by Freecharge Wallet only. For all users", 
+        "Discount": 20, 
+        "Promocode": "WALLET20", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All User", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Rs.20 Cashback on Rs.100 Recharge using Wallet"
+    }, 
+    {
+        "Description": "Get 20 cashback on min 3G recharge of 50 or more. Using \u00e2\u0080\u008bCredit/\u00e2\u0080\u008bDebit card & FreeCharge Balance only.", 
+        "Discount": 20, 
+        "Promocode": "FREEG", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Get 20 Cashback on min 3G Recharge of Rs.50"
+    }, 
+    {
+        "Description": "Get 20% Cashback on Electricity, Gas & Landline bill payment on minimum transaction amount of Rs 400. Max cashback 100. Use Debit, Credit card, Net banking and FreeCharge Balance Balance.", 
+        "Discount": 20, 
+        "Promocode": "FCBILL", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Light Bill", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Get 20% Cashback on Electricity, Gas & Landline bill payment"
+    }, 
+    {
+        "Description": "New user : Get 20% Cashback on Rs.200 or more Electricity Bill Payments when you pay with this promo code. one times/user. Max cashback Rs 100", 
+        "Discount": 20, 
+        "Promocode": "FIRSTBILL", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "New User", 
+            "Light Bill", 
+            "Light Bill", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "New user: Get 20% Cashback on Rs.200+ Electricity Bill Pay"
+    }, 
+    {
+        "Description": "New user : Get 20% Cashback on Rs.200 or more first Gas Bill Payments when you pay with this promo code. one times/user. Max cashback Rs 100", 
+        "Discount": 20, 
+        "Promocode": "GAS100", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "New User", 
+            "Light Bill", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "New user: 20% Cashback on Rs.200+ first Gas bill Payment"
+    }, 
+    {
+        "Description": "Get 20% cashback on Postpaid bill payment of Rs 400 or more. Max cashback Rs 100. Valid once per user and using Debit/Credit card only.", 
+        "Discount": 20, 
+        "Promocode": "POST20", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "New User", 
+            "Light Bill", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "New User Get 20% cashback on min Postpaid bill pay of 400"
+    }, 
+    {
+        "Description": "New users get 20% cashback on minimum DTH Recharge of Rs 300. Max cashback Rs 100. Using Debit / Credit card. Valid once per user", 
+        "Discount": 20, 
+        "Promocode": "D2H25", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "New User", 
+            "DTH Recharge", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Get 20% Cashback on min DTH Recharge Rs.300 (New user)"
+    }, 
+    {
+        "Description": "Rs.16 Cashback on Rs.160 or more Recharge & Bill Payment when you pay with this promo code. 2times/user", 
+        "Discount": 16, 
+        "Promocode": "EOM16", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer", 
+            "Offer"
+        ], 
+        "Title": "Rs.16 Cashback on Rs.160 or more Recharge & Bill Payments"
+    }, 
+    {
+        "Description": "Recharge, pay Postpaid Mobile Bill Payment, DTH, Data Cards, Utility Bill Payments & Metro Card Recharges with your Visa and get 10% cashback upto Rs 50. Coupon can be use two time per user", 
+        "Discount": 10, 
+        "Promocode": "VISA50", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer", 
+            "Offer"
+        ], 
+        "Title": "10% Cashback with VISA Debit / Credit Cards"
+    }, 
+    {
+        "Description": "New users get 10% cashback on 50 Recharge / Bill payments.Using Debit / Credit card only. valid once per user. Max Rs.100 cashback", 
+        "Discount": 10, 
+        "Promocode": "FC10", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "New User", 
+            "Light Bill", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer", 
+            "Offer"
+        ], 
+        "Title": "10% Cashback on Recharge of Rs.50 (New user)"
+    }, 
+    {
+        "Description": "Mobile Prepaid Recharge offer : Get Rs 10 Cashback on Minimum recharge of 150. Once / User", 
+        "Discount": 10, 
+        "Promocode": "RECH10", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Mobile Prepaid Offer: Get 10 Cashback on recharge of 150+"
+    }, 
+    {
+        "Description": "This code is also working on Airtel although it shouldn't. Get 10% cashback on any transaction. Max Rs.100 cashback. Applicable on Prepaid Recharge, Postpaid Bill, DTH, Landline and Data Card. 5times/user.", 
+        "Discount": 10, 
+        "Promocode": "PAYTMKARO", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer", 
+            "Offer"
+        ], 
+        "Title": "10% Cashback on any Recharge, Bill, DTH, Datacard"
+    }, 
+    {
+        "Description": "Get Rs.10 Idea Prepaid Recharge at Re.1 from Paytm. Click Activate", 
+        "Discount": 10, 
+        "Promocode": "ACTIVATE OFFER", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Rs.10 Recharge at Re.1"
+    }, 
+    {
+        "Description": "Get 10% Cashback on Metro Card Recharge at Mumbai. Code is valid three times per user.", 
+        "Discount": 10, 
+        "Promocode": "MMETRO", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Get 10% (max 100) Cashback on Metro Card Recharge at Mumbai"
+    }, 
+    {
+        "Description": "5% Cashback on Water Bill Payment with Paytm.Max cashback Rs 100.BILL. Valid for  first transaction of electricity bill payments.", 
+        "Discount": 5, 
+        "Promocode": "PAYDJB", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Light Bill", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "5% Cashback on Water Bill Payments"
+    }, 
+    {
+        "Description": "Get 4% on Recharges (for Odd Numbers On Odd Days & Even Numbers On Even Days). Max Rs.200 cashback. For all users.", 
+        "Discount": 4, 
+        "Promocode": "ODDEVEN", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All User", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "4% Cashback on Rs.50+ Recharge [Delhi]"
+    }, 
+    {
+        "Description": "Using Paytm Get 4% cashback on Mobile, DTH recharges & Mobile Bill Payment of Rs.20 or more with Paytm. Max Rs.200. 5 Times/user.", 
+        "Discount": 4, 
+        "Promocode": "GRAB200", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "DTH Recharge", 
+            "Light Bill", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer", 
+            "Offer"
+        ], 
+        "Title": "4% Cashback on Recharges/Bill Pay/DTH (Also Airtel)"
+    }, 
+    {
+        "Description": "Get 4% Cashback on Metro Card Recharge at Delhi Code is valid three times per user.", 
+        "Discount": 4, 
+        "Promocode": "DMETRO", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Get 4% (max 100) Cashback on Metro Card Recharge at Delhi"
+    }, 
+    {
+        "Description": "3% Cashback on Electricity / Water Bill Payment with Paytm. Thrice / user. Max cashback Rs 200", 
+        "Discount": 3, 
+        "Promocode": "BILLPAY", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Light Bill", 
+            "Light Bill", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "3% Cashback on Electricity / Water Bill Payment"
+    }, 
+    {
+        "Description": "Recharge on Freecharge and Get Equal valued Deals and Offers. Click to Activate", 
+        "Discount": 0, 
+        "Promocode": "ACTIVATE OFFER", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Recharge", 
+            "Airtel and Others", 
+            "Offer"
+        ], 
+        "Title": "Recharge and Get Equal valued Deals"
+    }
+]
+[
+    {
+        "Description": "Get flat cashback on Laptops up to Rs.8000 on any Premium Laptops like Lenovo Yoga, HP Pavilion, Apple Macbook Pro etc.", 
+        "Discount": 8000, 
+        "Promocode": "A5K / A8K", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal", 
+            "Deal"
+        ], 
+        "Title": "Get Rs.5000-8000 Cashback on Premium Laptops / Macbook Pro"
+    }, 
+    {
+        "Description": "Get Rs.3000 - Rs.9999 (18%) cashback on Laptops of Acer, Asus, Dell, HP, Lenovo, Sony etc brands", 
+        "Discount": 3000, 
+        "Promocode": "LAP18 /LAPS10 / A8K", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "Get Rs.9999 / 10% Cashback on Laptops"
+    }, 
+    {
+        "Description": "Get flat Rs 1500-3000 Off on any Apple iPhone 6S and 6S Plus. Visit the landing page and select any one of them, apply this code to get cashback.", 
+        "Discount": 1500, 
+        "Promocode": "A3K /GET1500 / A4K", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "Get flat Rs 3000 Off on on Apple iPhone 6S and 6S Plus"
+    }, 
+    {
+        "Description": "Purchase shoes worth Rs 1250 at MetroShoes.net & get 300 off. You will get a code if you select this offer while doing a transaction at Freecharge. The same code your need to apply at  the time of placing order.", 
+        "Discount": 1250, 
+        "Promocode": "ACTIVATE OFFER", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "Get Rs.300 off at MetroShoes.net on Rs.1250+"
+    }, 
+    {
+        "Description": "Get Rs.650 off on Domestic Flight Booking of amount Rs.9000 or more  on Thomascook.in", 
+        "Discount": 650, 
+        "Promocode": "ACTIVATE OFFER", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "Get Flat 650 off on Domestic Flight booking on Thomascook.in"
+    }, 
+    {
+        "Description": "Get Rs.300 CashBack (eCash) on one way & Rs.600 Cash Back (eCash)  on round trip on Domestic Flight  bookings @ Yatra.com. Offer Valid till stocks last.", 
+        "Discount": 300, 
+        "Promocode": "ACTIVATE OFFER", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal", 
+            "Deal"
+        ], 
+        "Title": "600 CashBack (eCash) on round trip on Domestic Flight @Yatra"
+    }, 
+    {
+        "Description": "Pay with MobiKwik wallet & Get Flat Rs 200 off on minimum cart value Rs 800 at Bigbazaar. &  Flat Rs 100 cashback on transaction above Rs. 1000. Offer valid for two time /user /month", 
+        "Discount": 200, 
+        "Promocode": "ACTIVATE OFFER", 
+        "Site": " Mobikwik ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "Pay via MobiKwik Wallet & Get Rs 200 Cashback on BIgbazaar"
+    }, 
+    {
+        "Description": "Get Rs.150 cashback on Bus ticket bookings of Rs.2000 or more. Once/day. Max 3 times in one month.", 
+        "Discount": 150, 
+        "Promocode": "BUS150", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal", 
+            "Deal", 
+            "Deal"
+        ], 
+        "Title": "Get flat Rs.150 CB on Rs.2000"
+    }, 
+    {
+        "Description": "Book your Movie tickets using Paytm wallet and get extra 100% Cashback on convenience fee only. You can book for PVR, Imax, Inox etc. 4 times/user", 
+        "Discount": 100, 
+        "Promocode": "MOVIE", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal", 
+            "Deal"
+        ], 
+        "Title": "100% Cashback on Movie Tickets booking convenience fee"
+    }, 
+    {
+        "Description": "Get Flat 100 cashback on minimum bus booking amount Rs 2000 [ Bangalore to Tirupati]. max cashback Rs 100. Valid once per user", 
+        "Discount": 100, 
+        "Promocode": "BUSTPT100", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal", 
+            "Deal"
+        ], 
+        "Title": "Get Flat 100 cashback on minimum bus booking amount Rs 2000"
+    }, 
+    {
+        "Description": "Get up to 50% cashback on hotel bookings at Paytm. Click activate to see list of codes.", 
+        "Discount": 50, 
+        "Promocode": "ACTIVATE OFFER", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal", 
+            "Deal"
+        ], 
+        "Title": "Paytm Hotels Promo Code: Up to 50% Cashback"
+    }, 
+    {
+        "Description": "Get Flat 45% off on Domestic Hotel bookings on goibibo.com. Maximum discount is Rs 2500.", 
+        "Discount": 45, 
+        "Promocode": "ACTIVATE OFFER", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal", 
+            "Deal"
+        ], 
+        "Title": "Get Flat 45% off on Domestic Hotel bookings on goibibo.com"
+    }, 
+    {
+        "Description": "Get Flat 30% cashback on Rs.200 or more valued ticket booking using Paytm. Max cashback Rs 200.", 
+        "Discount": 30, 
+        "Promocode": "BUSNEW120", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "New User", 
+            "Airtel and Others", 
+            "Deal", 
+            "Deal", 
+            "Deal"
+        ], 
+        "Title": "New User: Get 30% cashback on Rs.200+ Bus Ticket"
+    }, 
+    {
+        "Description": "Pay with Uco back and 25% upto Rs 50 cashback.", 
+        "Discount": 25, 
+        "Promocode": "UCOBANK", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "UCO users: Pay with UCO back and get 25%  cashback"
+    }, 
+    {
+        "Description": "New users get 20% cashback on minimum Landline payment  of Rs 200. Max cashback Rs 50. Using Debit / Credit card. Valid once per user", 
+        "Discount": 20, 
+        "Promocode": "FIRSTLL", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "New User", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "20% Cashback on min Landline payment of Rs.200 (New user)"
+    }, 
+    {
+        "Description": "Get Flat 20% upto Rs 500 off on Firstcry.com. valid once per user", 
+        "Discount": 20, 
+        "Promocode": "ACTIVATE OFFER", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "Get Flat 20% upto Rs 500 off on Firstcry.com"
+    }, 
+    {
+        "Description": "Get 20% upto Rs 50 cashback on booking of Dominos. Twice / user", 
+        "Discount": 20, 
+        "Promocode": "MOBIDOM", 
+        "Site": " Mobikwik ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": " Get 20% cashback on Dominos"
+    }, 
+    {
+        "Description": "Get 20% off + 20% Cashback on paying with MobiKwik wallet @travelkhana.com . Max cashback  Rs 50. Valid once per user", 
+        "Discount": 20, 
+        "Promocode": "ONLN20", 
+        "Site": " Mobikwik ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "Pay with mobikwik wallet & get 20% cashback @travelkhana.com"
+    }, 
+    {
+        "Description": "Get 15% Cashback on your first order at Faasos. Max cashback Rs 100.", 
+        "Discount": 15, 
+        "Promocode": "ACTIVATE OFFER", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "Get 15% Cashback on your first order at Faasos"
+    }, 
+    {
+        "Description": "Get flat 15% discount on minimum order of  Rs 350 at www.dominos.co.in. You will get a code if you select this offer while doing a transaction at Freecharge. The same code your need to apply at  the time of placing order.Coupon is valid once/ transaction", 
+        "Discount": 15, 
+        "Promocode": "ACTIVATE OFFER", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "Flat 15% discount at Dominos on Rs.350+"
+    }, 
+    {
+        "Description": "Pay via Mobikwik wallet and Get 15% cashback on booking with IRCTC Connect app. Max cashback Rs 60.", 
+        "Discount": 15, 
+        "Promocode": "ACTIVATE OFFER", 
+        "Site": " Mobikwik ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "Get 15% cashback on booking with IRCTC Connect app"
+    }, 
+    {
+        "Description": "Pay with Axis bank and get 10% upto Rs 30 cashback.", 
+        "Discount": 10, 
+        "Promocode": "AXISFC", 
+        "Site": " Freecharge ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "AXIS users: Pay with Axis back and get 10%  cashback"
+    }, 
+    {
+        "Description": "Pay with mobikwik wallet at Bookmyshow & get 10% cashback. Max cashback Rs.60. Cashback will be valid once in a week.", 
+        "Discount": 10, 
+        "Promocode": "MOBIBMS", 
+        "Site": " Mobikwik ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": " Get 10% cashback on Bookmyshow"
+    }, 
+    {
+        "Description": "Pay with Mobikwik wallet and get 5% off at  Shopclues. Maximum cashback Rs 20. Once/user.", 
+        "Discount": 5, 
+        "Promocode": "KWIKCLUES", 
+        "Site": " Mobikwik ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "Pay with Mobikwik wallet and get 5% off at  Shopclues"
+    }, 
+    {
+        "Description": "Get minimum 5% off on no minimum  bus ticket booking. Max cashback Rs 100. Valid twice in a day and five times in a month per user", 
+        "Discount": 5, 
+        "Promocode": "BUS100", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal", 
+            "Deal", 
+            "Deal"
+        ], 
+        "Title": "Get upto Rs 100 (5%) off on no minimum bus booking amount"
+    }, 
+    {
+        "Description": "Everyday win 1 lakh on Paytm. Make maximum transactions and use more Paytm services to make chances higher. Winners will be announced in 48hrs at given page.", 
+        "Discount": 1, 
+        "Promocode": "LAKHPATI", 
+        "Site": " Paytm ", 
+        "Tags": [
+            "All Users", 
+            "Airtel and Others", 
+            "Deal"
+        ], 
+        "Title": "Har Din Lakhpati: Win 1 Lakh Cashback daily"
+    }
+]
