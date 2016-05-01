@@ -11,11 +11,11 @@ class WebScrapping:
     def __init__(self, link, name):    
         ObjFileOp = FileOperations()
         self.link = link
-        #page = urllib2.urlopen(link)        
-        #self.soup = BeautifulSoup(page, "lxml")
-        #ObjFileOp.WriteToFile(name, self.soup)
-        page = ObjFileOp.ReadFile(name)
+        page = urllib2.urlopen(link)        
         self.soup = BeautifulSoup(page, "lxml")
+        ObjFileOp.WriteToFile(name, self.soup)
+        #page = ObjFileOp.ReadFile(name)
+        #self.soup = BeautifulSoup(page, "lxml")
         
         
         

@@ -23,4 +23,3 @@ offerdeal_categorizer['laptop'] = 'Deal'
 offerdeal_categorizer['book'] = 'Deal'
 offerdeal_categorizer['recharge'] = 'Offer'
 offerdeal_categorizer['bill'] = 'Offer'
-
